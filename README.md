@@ -1,37 +1,3 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/serenitymeditation/serenitymeditation.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serenitymeditation/serenitymeditation.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div id="digitalgoods-150722051306-dg01"></div><script>(function (div) {var render = function () {window.paypal.Buttons({createOrder: function (data, actions) {var item_data = {currency: "USD",item_total: Number("3.99"),amount: Number("4.23"),tax_total: Number("0.24")};return actions.order.create({application_context: {brand_name: "Serenity",landing_page: "BILLING",shipping_preference: "NO_SHIPPING",payment_method: {payee_preferred: "UNRESTRICTED"}},purchase_units: [{description: "Audio downloads From Serentiy for Meditation and Yoga",soft_descriptor: "Serenity",amount: {breakdown: {item_total: {currency_code: item_data.currency,value: item_data.item_total,},tax_total: {currency_code: item_data.currency,value: item_data.tax_total}},value: item_data.amount},items: [{name: "Reclaiming Emotions 10 min Guided Meditation \(Female voice\)",quantity: 1,description: ".mp3",sku: "DG01",unit_amount: {currency_code: item_data.currency,value: item_data.item_total,},tax: {currency_code: item_data.currency,value: item_data.tax_total}}]}]});},onApprove: function (data, actions) {return actions.order.capture().then(function () {div.innerHTML = "Order completed. You\x27ll receive an email shortly!";});},onCancel: function (data) {console.log(data);},onError: function (err) {div.innerHTML = "<pre>" + err.toString()}}).render("#digitalgoods-150722051306-dg01");};var init = function () {window.digitalgoods = window.digitalgoods || [];window.digitalgoods.push(render);if (window.digitalgoods.length === 1) {var script = document.createElement('script');script.type = 'text/javascript';script.src = "https://www.paypal.com/sdk/js?client-id=AS2QoE3_j0_ZoHPqj8GeyuMF8ZoKbPDF8MIhFPWreaEGuL9i34-R5qOm8CmIBajhaw1mSO-Ej-chbXK4\x26currency=USD";script.onload = function () {while (window.digitalgoods.length) {window.digitalgoods.shift()();}};div.appendChild(script);}};init();})(document.getElementById("digitalgoods-150722051306-dg01"));</script>
